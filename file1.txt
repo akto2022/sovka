@@ -1,2 +1,7 @@
 Step 1:  created by Aiko on Nov 1 at 1pm
+<<<<<<< HEAD
 Step 4: line added by Helene on Nov 1 at 1:52 pm
+=======
+Step 3: added by Aiko on Nov 1 at 1:40pm
+Step 4: line added by Aiko on Nov 1 at 2:15pm
+>>>>>>> dc80408d50dc949e43b5d3512e7ba8499631b399

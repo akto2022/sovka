@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Step 4:  person1.txt created by Helene on Nov 1 at 1:51 pm
+=======
+Step 4: person1.txt created by Aiko on Nov 1 at 2:15pm
+>>>>>>> dc80408d50dc949e43b5d3512e7ba8499631b399
